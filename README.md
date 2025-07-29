@@ -31,9 +31,9 @@ The dataset includes information such as:
 - Jupyter Notebook — exploratory data analysis
 
 ## 📁 Project Structure
-- `EDA/`: plots for exploratory analysis
-- `data/`: dataset files or links to data sources
-- `notebooks/`: step-by-step pipeline of the project
+- `Data/`: dataset files or links to data sources
+- `Notebooks/`: step-by-step pipeline of the project
+- `Plots/`: plots for exploratory analysis
 - `requirements.txt`: project dependencies
 - `space mission report`: Conclusion report
 ## 🧠 Methodology
