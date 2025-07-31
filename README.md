@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository presents a comprehensive analysis of global space missions using Python. The goal is to explore trends and patterns in the historical data of space launches — such as frequency, costs, seasonality, and mission success rates — to gain insights into the evolution of space exploration.
+This repository presents a comprehensive analysis of global space missions using Python and Power BI. The goal is to explore trends and patterns in the historical data of space launches — such as frequency, costs, seasonality, and mission success rates — to gain insights into the evolution of space exploration.
 
 ## ❓ Guiding Questions
 
